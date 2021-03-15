@@ -1,0 +1,3 @@
+reference
+rsync-exclude.txt
+*.pyc
